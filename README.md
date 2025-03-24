@@ -3,7 +3,7 @@
 I’m **David Gaviria**, a **Software & Security Engineer** currently completing my **Master’s in Information Security at Carnegie Mellon University**. I also hold a **Bachelor’s in Computer Science from Emory University**.  
 
 ### 🔹 About Me  
-I’m passionate about **exploit development, security tool automation, and software engineering**. I also have a strong interest in **video game development and modding**. Additionally, I’m **bilingual (English & Spanish)**.  
+I’m passionate about **exploit development, security tool automation, and software engineering**. I also have a strong interest in **video game development and modding**. Additionally, I’m **bilingual (speaking English and Spanish)**.  
 
 ### 🚀 Notable Projects  
 - **Jenkins CVE Exploit** – Developed a proof-of-concept exploit for a Jenkins CLI vulnerability.  
