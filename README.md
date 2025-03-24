@@ -23,6 +23,9 @@ I’m passionate about exploit development, security tool automation, and softwa
 
 - **World of a Southern Victory (HoI4 Mod):**  
   A mod for *Hearts of Iron IV* based on Harry Turtledove's *Southern Victory* series. It creates an alternate history where the Confederacy wins the Civil War, leading to a redefined 20th century. The mod includes content for nearly a dozen countries, with custom tech trees, national focuses, event chains, and more. It also expands the base game to include World War I, reflecting the alternate history of the series.
+  
+⚠️ **Disclaimer:** The author condemns the "Lost Cause" myth and revisionist Civil War narratives. This mod was created purely out of a love for military history and game development.
+
 
 ## 📫 Let’s Connect!  
 🔗 [LinkedIn](#)  
