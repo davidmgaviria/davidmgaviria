@@ -1,38 +1,29 @@
-## Hi there! 👋  
+# Hi there! 👋
 
-I’m **David Gaviria**, a **Software & Security Engineer** currently completing my **Master’s in Information Security at Carnegie Mellon University**. I also hold a **Bachelor’s in Computer Science from Emory University**.  
+I’m David Gaviria, a Software & Security Engineer currently completing my Master’s in Information Security at Carnegie Mellon University. I also hold a Bachelor’s in Computer Science from Emory University.
 
-### 🔹 About Me  
-I’m passionate about **exploit development, security tool automation, and software engineering**. I also have a strong interest in **video game development and modding**. Additionally, I’m **bilingual (English & Spanish)**.  
+## 🔹 About Me
 
-### 🚀 Notable Projects  
-- **Jenkins CVE Exploit** – Developed a proof-of-concept exploit for a Jenkins CLI vulnerability.  
-- **Autopsy® Forensics Module** – Created a module for **Autopsy® (The Sleuth Kit®)** to aid in parsing text messages.  
-- **HOCA OS** – Built a microkernel as part of **CMU’s Operating Systems course**.  
+I’m passionate about exploit development, security tool automation, and software engineering. I also have a strong interest in video game development and modding. Additionally, I’m bilingual (English & Spanish).
 
-> ⚠️ Due to academic integrity policies, many of my school-related projects are private.  
+## 🚀 Notable Projects
 
-### 🎮 Game Development & Modding  
-In my free time, I enjoy creating and modifying games. Some of my notable mods include:  
-- **World of a Southern Victory** (*for Hearts of Iron IV*)  
-- **Steel Division: Great War** (*for Steel Division II*)  
+- **Jenkins CLI WebSocket Hijacking (PoC):**  
+  A proof of concept for exploiting CVE-2024-23898, a vulnerability in Jenkins that enables remote access and persistent backdoors.
 
-### 📫 Let’s Connect!  
-🔗 [**LinkedIn**](https://www.linkedin.com/in/davidmgaviria/)  
-📂 Check out my repositories and feel free to reach out!  
+- **Anti-Vmware Pseudo-Malware:**  
+  A proof-of-concept demonstrating anti-sandbox techniques that detect and evade virtual machine environments.
 
+- **Conversation Identifier & Extractor (Autopsy Plugin):**  
+  A plugin for Autopsy® that parses and organizes SMS conversations from Android device images, outputting them as chronological transcripts in forensics reports.
 
-<!--
-**davidmgaviria/davidmgaviria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️ Due to academic integrity policies, many of my school-related projects are private.
 
-Here are some ideas to get you started:
+## 🎮 Game Development & Modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **World of a Southern Victory (HoI4 Mod):**  
+  A mod for *Hearts of Iron IV* based on Harry Turtledove's *Southern Victory* series. It creates an alternate history where the Confederacy wins the Civil War, leading to a redefined 20th century. The mod includes content for nearly a dozen countries, with custom tech trees, national focuses, event chains, and more. It also expands the base game to include World War I, reflecting the alternate history of the series.
+
+## 📫 Let’s Connect!  
+🔗 [LinkedIn](#)  
+📂 Check out my repositories and feel free to reach out!
