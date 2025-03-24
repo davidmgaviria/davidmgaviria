@@ -7,7 +7,7 @@ I’m passionate about **exploit development, security tool automation, and soft
 
 ### 🚀 Notable Projects  
 - **Jenkins CVE Exploit** – Developed a proof-of-concept exploit for a Jenkins CLI vulnerability.  
-- **Autopsy Forensics Module** – Created a module for **Autopsy (Sleuth Kit)** to aid in parsing text messages.  
+- **Autopsy Forensics Module** – Created a module for **Autopsy (the Sleuth Kit)** to aid in parsing text messages.  
 - **HOCA OS** – Built a microkernel as part of **CMU’s Operating Systems course**.  
 
 > ⚠️ Due to academic integrity policies, many of my school-related projects are private.  
