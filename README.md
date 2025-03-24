@@ -22,9 +22,12 @@ I’m passionate about exploit development, security tool automation, and softwa
 ## 🎮 Game Development & Modding
 
 - **World of a Southern Victory (HoI4 Mod):**  
-  A mod for *Hearts of Iron IV* based on Harry Turtledove's *Southern Victory* series. It creates an alternate history where the Confederacy wins the Civil War, leading to a redefined 20th century. The mod includes content for nearly a dozen countries, with custom tech trees, national focuses, event chains, and more. It also expands the base game to include World War I, reflecting the alternate history of the series.
+  A mod for *Hearts of Iron IV* based on Harry Turtledove's *Southern Victory* series. It creates an alternate history where the Confederacy wins the Civil War, leading to a redefined 20th century. The mod includes content for nearly a dozen countries, with custom tech trees, national focuses, event chains, and more.
+
+- **Steel Division: Great War (Steel Division II Mod):**  
+  A mod for Steel Division that restricts Steel Division decks to only units with Great War equipment (eliminating tanks and non-biplane aircraft), so players can simulate World War I battles in the game.
   
-⚠️ **Disclaimer:** The author condemns the "Lost Cause" myth and revisionist Civil War narratives. This mod was created purely out of a love for military history and game development.
+⚠️ **Disclaimer:** The author condemns the "Lost Cause" myth and revisionist Civil War narratives. The HoI4 mod was created purely out of a love for military history and game development.
 
 
 ## 📫 Let’s Connect!  
